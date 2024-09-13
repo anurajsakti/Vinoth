@@ -11,7 +11,13 @@ public class M {
 		System.out.println("krish");
 	}
 	public void r4() {
+ 
 		System.out.println("anu");
+		
+		System.out.println("ramu");
+
+		
+
 	}
 
 }
