@@ -10,5 +10,8 @@ public class M {
 	public void r3() {
 		System.out.println("krish");
 	}
+	public void r4() {
+		System.out.println("anu");
+	}
 
 }
