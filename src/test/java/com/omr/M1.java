@@ -11,5 +11,11 @@ public class M1 {
 	public void s3() {
 		System.out.println("krish");
 	}
+	public void s4() {
+		System.out.println("vinoth");
+	}
+	public void s5() {
+		System.out.println("krish");
+	}
 
 }
